@@ -11,7 +11,7 @@ WIFI fix for Ubuntu 16.04 on HP Notebooks
 
 #### For 32 bit Systems: 
 ---
-##### wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-headers-4.7.2-040702_4.7.2-040702.201608201334_all.deb
+##### wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-headers-4.7.2-040702_4.7.2-040702.201608201334_all.deb #####
 ---
 
 ---
