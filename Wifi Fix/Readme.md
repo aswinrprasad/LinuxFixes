@@ -13,30 +13,48 @@ WIFI fix for Ubuntu 16.04 on HP Notebooks
 ---
 wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-headers-4.7.2-040702_4.7.2-040702.201608201334_all.deb
 ---
+
+---
 wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-headers-4.7.2-040702-generic_4.7.2-040702.201608201334_i386.deb
+---
+
 ---
 wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-image-4.7.2-040702-generic_4.7.2-040702.201608201334_i386.deb
 ---
+
+---
 sudo dpkg -i linux-headers-4.7.2*.deb linux-image-4.7.2*.deb
 ---
+
+---
 sudo reboot
+---
 
 #### For 64 bit Systems:
 ---
 wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-headers-4.7.2-040702_4.7.2-040702.201608201334_all.deb
 ---
+
+---
 wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-headers-4.7.2-040702-generic_4.7.2-040702.201608201334_amd64.deb
+---
+
 ---
 wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.7.2/linux-image-4.7.2-040702-generic_4.7.2-040702.201608201334_amd64.deb
 ---
+
+---
 sudo dpkg -i linux-headers-4.7.2*.deb linux-image-4.7.2*.deb
 ---
-sudo reboot
 
+---
+sudo reboot
+---
 
 ### To unistall :
 ---
 sudo apt-get remove 'linux-headers-4.7.2*' 'linux-image-4.7.2*'
+---
 
 ##### The fix is all done. The bluetooth icon will be greyed out but Wifi will be running just fine.
 
