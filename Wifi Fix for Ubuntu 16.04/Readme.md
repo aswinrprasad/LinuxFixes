@@ -48,13 +48,16 @@ If you want Wifi to work I suggest you to try this fix.
 If the first method does not work out continue with this.
 
 1.Download from a file from [here](https://github.com/FireWalkerX/ath10k-firmware/blob/7e56cbb94182a2fdab110cf5bfeded8fd1d44d30/QCA6174/hw3.0/board-2.bin?raw=true), then rename it to 'board.bin' .
+
 2.Download a file from [here](https://github.com/FireWalkerX/ath10k-firmware/blob/7e56cbb94182a2fdab110cf5bfeded8fd1d44d30/QCA6174/hw3.0/firmware-4.bin_WLAN.RM.2.0-00180-QCARMSWPZ-1?raw=true), and then rename it to 'firmware-4.bin' .
+
 3.Copy and replace both the files into /lib/firmware/ath10k/QCA6174/hw3.0/
 	mv 'file-path' /lib/firmware/ath10k/QCA6174/hw3.0/ 
+
 4.Reboot your pc.
 	reboot
 
-#####There you go. The fix is done.
+##### There you go. The fix is done.
 
  
 
