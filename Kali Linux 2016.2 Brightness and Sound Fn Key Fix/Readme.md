@@ -23,6 +23,6 @@ To open sources.list , run the terminal command below :
 
 4.Wait for the process to complete. Hope that fixed the bugs.
 
-**NOTE : The file you download here is a shell script with a number of commands put together for the ease of fixing th bug.**
+**NOTE : The file you download here is a shell script with a number of commands put together for the ease of fixing the bug.**
 	
 
