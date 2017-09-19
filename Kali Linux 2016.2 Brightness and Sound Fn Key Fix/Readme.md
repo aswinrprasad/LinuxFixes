@@ -9,6 +9,7 @@ This bug is due to GNOME being in transition between GNOME 3.20 and GNOME 3.21 i
 
 1.Open your source file and add this line to it : 
 **deb http://http.kali.org/kali kali-rolling main contrib non-free**
+
 To open sources.list , run the terminal command below :
 	
 	leafpad /etc/apt/sources.list
