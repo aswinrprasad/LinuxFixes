@@ -20,7 +20,7 @@ To open sources.list , run the terminal command below :
 
 	chmod 755 Run.sh
 
-	./test.sh
+	./Run.sh
 
 4.Wait for the process to complete. Hope that fixed the bugs.
 
