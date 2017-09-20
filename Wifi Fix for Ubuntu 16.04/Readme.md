@@ -58,6 +58,11 @@ If the first method does not work out continue with this.
 4.Reboot your pc.
 	reboot
 
+5.Download a file from [here](https://drive.google.com/file/d/0B6tK150jyMyOckptd0UtanZ2SGs/view?usp=sharing) and run it.
+	
+	chmod +x FixWifi.sh
+	./FixWifi.sh
+
 ##### There you go. The fix is done.
 
  
