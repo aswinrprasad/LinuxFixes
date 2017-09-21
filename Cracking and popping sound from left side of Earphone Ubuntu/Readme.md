@@ -5,7 +5,7 @@ Noise from left side of Earphone Fix(Ubuntu)
 This is a bug I just noticed in my Ubuntu recently.Basically It's Cracking and popping sound from left side of the earphone which makes the audio sound irritable.
 
 ### INSTRUCTIONS :
-1.Check what you Audio Device is to see if the fix will actually work.
+1.Check what your Audio Device is to see if the fix will actually work.
 
 	lspci -v
 
