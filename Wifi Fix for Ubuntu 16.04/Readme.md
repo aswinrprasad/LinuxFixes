@@ -56,6 +56,7 @@ If the first method does not work out continue with this.
 	mv 'file-path' /lib/firmware/ath10k/QCA6174/hw3.0/ 
 
 4.Reboot your pc.
+
 	reboot
 
 5.Download a file from [here](https://drive.google.com/file/d/0B6tK150jyMyOckptd0UtanZ2SGs/view?usp=sharing) and run it.
