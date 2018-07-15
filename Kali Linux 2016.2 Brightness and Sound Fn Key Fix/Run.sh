@@ -5,7 +5,7 @@ echo "Running all commands to fix Sound fn key bug.."
 systemctl --user enable pulseaudio && systemctl --user start pulseaudio
 echo "Running all commands to fix brightness fn key bug.."
 apt-get update && apt-get install linux-headers-$(uname -r)
-echo "Do you want to reboot the system ? "
+echo "Do you want to reboot the system ? [y/n] "
 read val
 if [ $val == 'y' ]
 then
